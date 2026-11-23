@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Katalog Makanan",
+    "slug": "katalog-makanan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "katalogmakanan",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#e8590c"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#e8590c"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": ["expo-router"]
+  }
+}
